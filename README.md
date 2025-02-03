@@ -1,3 +1,19 @@
+Follow These Instructions to make your own.
+1. Fork This Project.
+2. Go to codespace and make one with the fork you made.
+3. In the terminal, first type " git clone https://github.com/UseInterstellar/Interstellar " 
+4. After it's done , type " cd Interstellar "
+5. Once that is Finished, type " npm i "
+6. After that type " npm run start "
+7. After it says " server running on local host " go to the ports tab, right-click on the link and change the port visibility to public.
+8. Finally, copy the link and paste it, then you have your own personal Interstellar. ( if you give the link the other user HAS to have a Github Account to access it ) 
+The rest of this description is the interstellar Official description, i just left it incase you need more help!
+
+
+
+
+
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
